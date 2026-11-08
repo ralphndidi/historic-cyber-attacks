@@ -4,7 +4,7 @@ A research project on seven landmark cyber incidents, from the first self-spread
 
 Completed for **Cybersecurity Fundamentals / Ethical Hacking** at **NIIT Enugu**.
 
-📄 **Full report:** [Cyber Attack Assignment.pdf](Cyber Attack Assignment.pdf)
+📄 **Full report:** [Cyber_Attack_Assignment.pdf](report/Cyber_Attack_Assignment.pdf)
 
 ## Incidents covered
 
